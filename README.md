@@ -25,14 +25,14 @@ Based on these inputs, the application predicts the percentage change in the clo
 📂 Project Structure:
 
 stock-price-prediction/
-│── static/                     # Contains static files like CSS, JS, and images
-│   │── style.css               # CSS file for styling the web page
-│   │── script.js               # JavaScript file for handling frontend logic
-│   │── logo.jpg                # Logo image for the web application
+-│── static/                     # Contains static files like CSS, JS, and images
+--│   │── style.css               # CSS file for styling the web page
+--│   │── script.js               # JavaScript file for handling frontend logic
+---│   │── logo.jpg                # Logo image for the web application
 │── templates/                  # Contains HTML files for UI
-│   │── index.html              # Main HTML file for the web interface
-│── app.py                      # Flask application file
-│── requirements.txt            # Dependencies list
+-│   │── index.html              # Main HTML file for the web interface
+-│── app.py                      # Flask application file
+--│── requirements.txt            # Dependencies list
 
 🔧 Installation & Setup:
 
