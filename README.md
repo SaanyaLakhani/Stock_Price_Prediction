@@ -56,13 +56,12 @@ To train the model, the following steps are performed in app.py:
 3. Create a pipeline with StandardScaler and LinearRegression.
 4. Train the pipeline on the training data.
 
-🎯 Features
+🎯 Features :
 ✅ User-friendly Web Interface
 ✅ Real-time Stock Price Prediction
 ✅ Linear Regression Model for Prediction
 ✅ Flask API Backend
 ✅ Responsive Design with Glassmorphism Effect
 
-📜 License
-This project is open-source and free to use.
-Let me know if you need further modifications! 🚀
+📜 License :
+This project is open-source and free to use. Let me know if you need further modifications! 🚀
